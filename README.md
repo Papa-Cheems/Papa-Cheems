@@ -1,5 +1,4 @@
-
-# 👋 Hi, I'm Papa_Cheems
+👋 Hi, I'm Papa_Cheems
 
 🎓 Computer Science student currently focused on strengthening my foundation in Python, data structures, and object-oriented programming.
 
